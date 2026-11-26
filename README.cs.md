@@ -10,7 +10,7 @@
 2. Doplňte ročník či úroveň, anonymizovaný pramen s jeho označením, cíl cvičení a čas.
 3. Projděte návrh a upravte dokument. Stažitelný DOCX závisí na nástrojích chatu. Náhradní výstup je Markdown pro textový editor.
 
-Literární režim ověřuje odpovědi fiktivní postavy proti dodanému úryvku.
+V literárním režimu žák zpovídá postavu a pak v úryvku hledá oporu pro její odpověď.
 
 ## Příklad
 
@@ -18,7 +18,7 @@ Dvě dobové zprávy o téže události. Žák označí slova, jimiž jednotliv�
 
 ## Stav a soukromí
 
-Verze 1.1.0. Chování v konkrétních modelech ani tvorba příloh zatím nemají doložený test. Repozitář obsahuje textový postup. Podklady zpracovává poskytovatel zvoleného chatu. Používejte veřejné nebo anonymizované materiály.
+Verze 1.1.1. Chování v konkrétních modelech ani tvorba příloh zatím nemají doložený test. Repozitář obsahuje textový postup. Podklady zpracovává poskytovatel zvoleného chatu. Používejte veřejné nebo anonymizované materiály.
 
 ## Původ a licence
 

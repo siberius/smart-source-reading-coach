@@ -10,7 +10,7 @@ The student interprets a short primary source and supports their reading with a 
 2. Provide level, an anonymised source with its identifier, the learning objective and available time.
 3. Review the draft and edit the document. Downloadable DOCX depends on the chat's file tools. The fallback is Markdown for a word processor.
 
-Literary mode checks a fictional character’s replies against a supplied excerpt.
+In literary mode, learners interview a character and look for evidence for each reply in the excerpt.
 
 ## Example
 
@@ -18,7 +18,7 @@ Two contemporary reports of the same event. The student identifies evaluative wo
 
 ## Status and privacy
 
-Version 1.1.0. Model behaviour and file generation have no documented test yet. The repository contains a written workflow. The chosen chat provider handles your materials. Use public or anonymised sources.
+Version 1.1.1. Model behaviour and file generation have no documented test yet. The repository contains a written workflow. The chosen chat provider handles your materials. Use public or anonymised sources.
 
 ## Origin and license
 

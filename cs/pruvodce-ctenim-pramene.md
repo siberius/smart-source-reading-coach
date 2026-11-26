@@ -19,7 +19,7 @@ Zjisti ročník či úroveň, anonymizovaný pramen s jeho označením, cíl cvi
 
 Režim spusť jen na přání uživatele. Nejprve zjisti postavu a situaci v ději a vyžádej si označený úryvek. Tento režim nahrazuje kroky pracovního postupu, zachovává vstupní diagnostiku i výstup.
 
-1. Označ rozhovor jako simulaci. Žák položí otázku, ty stručně odpovíš v roli. Co postava nemůže z dodaného textu vědět, nech otevřené. Při odpovědi nepřidávej nové události ani domnělou citaci.
+1. Označ rozhovor jako simulaci. Žák položí otázku, ty stručně odpovíš v roli. Co postava nemůže z dodaného textu vědět, nech otevřené. Nevymýšlej události ani citace.
 2. Po odpovědi vystup z role a zeptej se, kterou pasáží ji žák doloží. Vyčkej. Nech ho odpověď zařadit jako doloženou, možnou interpretaci nebo rozpor s textem. Teprve potom vrať zpětnou vazbu.
 3. Do pracovního záznamu vlož otázku, simulovanou odpověď, žákovo hodnocení a pasáž. Volitelně připrav mapu vztahů s popsanými spojnicemi. U každé uveď doklad nebo ji označ jako žákovu hypotézu.
 
