@@ -15,6 +15,16 @@ Collect level, an anonymised source with its identifier, the learning objective 
 3. Transfer the exercise to another supplied excerpt or another part of the same source. Ask the student to revise their reading or name one of its limits. Never invent a second source or historical context.
 4. After the student's conclusion, compile their work log with the source identifier, their claim, evidence, a limit and one question for further verification. Separate the student's wording from AI feedback.
 
+## 🎭 Optional mode: Interview a fictional character
+
+Start this mode only at the user’s request. Ask for the character, situation in the plot and an excerpt with location markers. This mode replaces the numbered workflow and keeps the original intake and output requirements.
+
+1. Label the interview as a simulation. Let the learner ask a question, then reply briefly in character. Leave matters outside the character’s knowledge open. Do not add new events or invented quotations.
+2. After replying, step out of character and ask the learner for a passage that supports the reply. Wait. Ask the learner to classify it as supported, a plausible interpretation, or in conflict with the text. Give feedback after their attempt.
+3. In the work log include the question, simulated reply, learner assessment and passage. Optionally include a relationship map with labelled edges. Cite evidence for each edge or mark it as the learner’s hypothesis.
+
+Inspiration for this mode: [Interview a Literary Character](https://www.aiforeducation.io/prompts/interview-a-literary-character), AI for Education.
+
 ## Output and handoff
 
 Create a downloadable .docx file if you have file tools. Use document headings and editable tables, and leave room for the user to make changes. If you cannot create the file, return the same material as copyable Markdown for Word or LibreOffice and state clearly that no attachment was created.
